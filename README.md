@@ -21,4 +21,4 @@ git clone https://github.com/frasfras/after-call.git
    `npm run dev`
 
 4. testing click https://aftercare.ai.studio/#/demo 
-     in the input box chat : Call  (enter your phone number )  regarding her knee replacement surgery ask How are you feeling today? wait response . 
+     in the input box chat : Call  (enter your phone number )  regarding her knee replacement surgery ask How are you feeling today? wait for call/ response . 
