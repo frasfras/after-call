@@ -22,3 +22,9 @@ git clone https://github.com/frasfras/after-call.git
 
 4. testing click https://aftercare.ai.studio/#/demo 
      in the input box chat : Call  (enter your phone number )  regarding her knee replacement surgery ask How are you feeling today? wait for call/ response . 
+
+## How it works
+
+## What it does
+Aftercare monitors patients after a patient leaves the hospital, through scheduled voice calls — just a phone call. Calle-e does outbound calling thru a agent Mcp . Call-e transcripts  the conversation in real time,  on each call, agentic workflows plans the call based on medical operation.
+ 
