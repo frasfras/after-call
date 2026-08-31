@@ -19,3 +19,6 @@ git clone https://github.com/frasfras/after-call.git
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+4. testing click https://aftercare.ai.studio/#/demo 
+     in the input box chat : Call  (enter your phone number )  regarding her knee replacement surgery ask How are you feeling today? wait response . 
