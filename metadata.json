@@ -1,0 +1,6 @@
+{
+  "name": "Aftercare",
+  "description": "AI voice agent for automated post-discharge clinical check-ins and triage.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
