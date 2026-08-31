@@ -59,7 +59,7 @@ call_e_toolset = McpToolset(
 )
 
 root_agent = Agent(
-    model='gemini-3-flash-preview',
+    model='gemini-3.5-flash',
     name='root_agent',
     description='An agent that plans and makes phone calls using the Call-E MCP service.',
     instruction=(
